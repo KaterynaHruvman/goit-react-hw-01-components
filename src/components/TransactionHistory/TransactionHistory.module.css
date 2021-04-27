@@ -1,0 +1,13 @@
+.transactionHistory {
+  width: 500px;
+  border: 1px solid lightgrey;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.transactionType {
+  background-color: rgb(38, 126, 197);
+  padding: 10px;
+  border: 1px solid lightgrey;
+  color: rgb(10, 10, 10);
+}
