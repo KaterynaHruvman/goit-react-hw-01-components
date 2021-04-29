@@ -11,3 +11,6 @@
   border: 1px solid lightgrey;
   color: rgb(10, 10, 10);
 }
+.transactionType::first-letter {
+  text-transform: uppercase;
+}
